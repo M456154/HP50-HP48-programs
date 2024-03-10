@@ -1,0 +1,24 @@
+%%HP: T(3)A(D)F(.);
+´
+
+ { 
+   { DEGéçRAD
+  ´ -18 CF -17 FS? ç X
+    ´
+      IF 'X'
+      THEN -17 CF
+      ELSE -17 SF
+      END
+    ª
+  ª }
+ 
+ { RéçP
+  ´ -15 CF -17 CF -18 CF
+    IF -16 FS? 0 ==
+    THEN -16 SF
+    ELSE -16 CF
+    END
+  ª } 
+
+   } MENU
+ª
