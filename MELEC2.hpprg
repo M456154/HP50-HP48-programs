@@ -20,5 +20,16 @@
     END
   » } 
 
+  { PARA
+«
+INV SWAP INV + INV NUM
+» }  
+
+{ZL « 2 * ‡ * f * NUM (0, 1) * » }
+
+{ZC «  2 * ‡ * f * INV NUM (0, -1) * » }
+
+{f f } 
+
    } MENU
 »
