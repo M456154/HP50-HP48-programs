@@ -1,4 +1,4 @@
-# MEnu Eléctrico
+# Menú Eléctrico para HP50g
 
 1. DEG <-> RAD
 2. REC <-> POL
